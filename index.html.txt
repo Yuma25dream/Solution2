@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <h1>favorite color</h1>
+   <br>
+<div class = container>
+
+<div class = section>
+  <div class = section-title>
+  <h2>blue</h2>
+  </div>
+  <h3>The color blue represents both the sky and the sea and is associated with open spaces, freedom, intuition, imagination, inspiration, and sensitivity. Blue also represents meanings of depth, trust, loyalty, sincerity, wisdom, confidence, stability, faith, and intelligence.</h3>
+</div>
+<br>
+
+ <div class = section2> 
+   <div class = section-title>
+  <h2>purple</h2>
+   </div>
+
+  <h3>Purple combines the calm stability of blue and the fierce energy of red. The color purple is often associated with royalty, nobility, luxury, power, and ambition. Purple also represents meanings of wealth, extravagance, creativity, wisdom, dignity, grandeur, devotion, peace, pride, mystery, independence, and magic</h3>
+ </div>
+
+<br>
+  
+<div class = section3>
+  <div class = section-title>
+  <h2>gray</h2>
+  </div>
+  <h3>of a color between white and black; having a neutral hue. dark, dismal, or gloomy: gray skies.</h3>
+</div>
+
+</div>
+  
+  <script src="script.js"></script>
+
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+
+</html>
